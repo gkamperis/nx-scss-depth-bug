@@ -1,0 +1,7 @@
+.test-other {
+  // this builds the app correctly
+  // background-image: url('../../../assets/account_box-other-24px.svg');
+
+  // this publishes the lib inlining assets correctly
+  background-image: url('../../assets/account_box-other-24px.svg');
+}
